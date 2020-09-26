@@ -1,6 +1,7 @@
 # Tor_requests
 Sending get requests by Tor
 Instalación de los módulos
+
 -pip3 install requests
 
 -pip3 install socks
